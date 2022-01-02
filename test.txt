@@ -1,4 +1,8 @@
 test commit
 
 commit # 2
+<<<<<<< HEAD
 this ais agacommit
+=======
+sshjd
+>>>>>>> feature
